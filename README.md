@@ -16,4 +16,10 @@ Current whiteboard-phase efforts that will live in this repo:
 1. Website redesign project
 2. New marketing effort targeted at larger companies 
 
+There are also some efforts that pre-date this repo that won't neccessarily be moved, but which are the same sorts of experimental efforts. If they were created today, they'd live here, and for now, here's a list linking to them elsewhere:
+
+1. [Ember Help Wanted](https://github.com/ember-learn/ember-help-wanted)
+
 Like all things Ember, everything is open-source, and contributions and suggestions are welcome. As per usual Pull Requests are the way to go, and as per etiquette, it's best to mention what you're wanting to work on before diving in full steam, so we avoid duplication of efforts. Most robust efforts will also end up with some related Slack channel where you'll likely be able to find primary contributors available to chat.
+
+
