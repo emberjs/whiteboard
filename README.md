@@ -7,7 +7,7 @@ This is a public location for things to live while they're in the ideas phase, w
 
 For a current snapshot of which phase each branch is in, visit [the main GitHub Projects project for this repo](https://github.com/emberjs/whiteboard/projects/1). Some branches may also have more detailed separate Projects.
 
-Currently, members of the Ember Core Team and Learning Team have permissions to manage this repo; other contributors can be added as neccessary to keep things moving along. New efforts should be on new separate branches, and community members should request new branches be created for their efforts as needed.
+Currently, members of the Ember Core Team and Learning Team have permissions to manage this repo; other contributors can be added as necessary to keep things moving along. New efforts should be on new separate branches, and community members should request new branches be created for their efforts as needed.
 
 This repo exists in a somewhat middling state of officialness :p Think of it like a whiteboarding session. Something appearing here does not necessarily indicate official approval, though some things here probably _do_ have the attention of the Core Team; it simply means that at some point someone on the team agreed that the initial form of the material was worth exploring.
 
@@ -16,9 +16,11 @@ Should an effort reach the stage where it can be rolled into official Ember mate
 Current whiteboard-phase efforts that will live in this repo:
 
 1. Website redesign project
-2. New marketing effort targeted at larger companies
+2. Marketing effort targeted at businesses
+3. [Design effort to organize SVG assets](https://github.com/emberjs/whiteboard/tree/design-svg-assets)
+4. [Design effort to experiment with adjustments and enhancements to the general Ember color palette](https://github.com/emberjs/whiteboard/tree/design-color-palette-experimentation)
 
-There are also some efforts that pre-date this repo that won't neccessarily be moved, but which are the same sorts of experimental efforts. If they were created today, they'd live here, and for now, here's a list linking to them elsewhere:
+There are also some efforts that pre-date this repo that won't necessarily be moved, but which are the same sorts of experimental efforts. If they were created today, they'd live here, and for now, here's a list linking to them elsewhere:
 
 1. [Ember Help Wanted](https://github.com/ember-learn/ember-help-wanted)
 
