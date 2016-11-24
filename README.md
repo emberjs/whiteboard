@@ -1,4 +1,4 @@
-# Whiteboard
+# Ember Business Marketing Strategy 
 This repo serves as a home for experimental projects and efforts, efforts, proposals, etc.
 
 Things like design updates, major marketing efforts, theoretical explorations of docs and code, tend to spring up more often than they succeed. This is normal; there are tough challenges with big multi-faceted projects!
