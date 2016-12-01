@@ -23,5 +23,7 @@ Current whiteboard-phase efforts that will live in this repo:
 There are also some efforts that pre-date this repo that won't necessarily be moved, but which are the same sorts of experimental efforts. If they were created today, they'd live here, and for now, here's a list linking to them elsewhere:
 
 1. [Ember Help Wanted](https://github.com/ember-learn/ember-help-wanted)
+2. [Ember Hearth](https://github.com/ember-learn/ember-hearth)
+3. [EmberWatch](https://github.com/emberwatch/emberwatch)
 
 Like all things Ember, everything is open-source, and contributions and suggestions are welcome. As per usual Pull Requests are the way to go, and as per etiquette, it's best to mention what you're wanting to work on before diving in full steam, so we avoid duplication of efforts. Many robust efforts will also end up with some related Slack channel (prefix `wb-`) where you'll likely be able to find primary contributors available to chat.
