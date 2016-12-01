@@ -21,3 +21,10 @@ Basically, we'll take a look to make sure your request seems appropriate, and as
 ### If I have permissions in general, does that mean I can merge PRs to any whiteboard project?
 
 Technically, you _can_, but should you? Absolutely not. We can't grant permissions on a branch-level, so it _has_ to be on the repo level, but we expect folks to only exercise their powers in the places where it's appropriate. Jumping into a project you're not involved with and committing changes directly or merging PRs is _not_ appropriate. This is presumably obvious :) We'll err on the side of assuming everyone can act responsibly out the gate, and fix problems as needed if they come up.
+
+### My new project/branch exists: what now?
+
+Aside from working on the project itself, recruiting collaborators and more, you'll want to do the following:
+
+* Replace the README.md of your branch with an explanation of what the project is
+* Submit a PR to the Master branch of this repo to add your project to the index list in _that_ README.
