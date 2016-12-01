@@ -9,11 +9,11 @@ But once you _do_ have something to show, even if it's just a substantive write-
 
 ### How do I get my project added?
 
-To have a new branch created, you'll need a member of the Learning or Core teams to set it up for you. To submit your request, open an Issue and tag it `request-new-project`.
+To have a new branch created, you'll need a member of the Learning or Core teams to set it up for you. To submit your request, open an Issue with the prefix `[request-new-project]`.
 
 ### I'm working on an existing project; how can I get access to permissions so I can merge PRs and things?
 
-To submit a request, open an issue with the tag `request-permissions`. 
+To submit a request, open an Issue with the prefix `[request-permissions]`. 
 
 Please note: unless you are the person creating the project to begin with, we'll look to make sure you have a history of activity before granting access permissions. That means you should've already submitted PRs to the branch, worked with the maintainers, made substantive comments, etc. 
 Basically, we'll take a look to make sure your request seems appropriate, and ask around if need be to be sure.
